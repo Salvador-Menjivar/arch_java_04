@@ -10,4 +10,5 @@ Ejemplo desarrollado para explicar las arquitecturas que se pueden utilizar en J
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/Salvador-Menjivar/arch_java_04.git]
+   git clone https://github.com/Salvador-Menjivar/arch_java_04.git
+   
